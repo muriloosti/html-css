@@ -32,7 +32,7 @@ header > p {
     text-align: center;
     color: white;
     padding-bottom: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 5vw;
 }
 
 header a {
@@ -53,7 +53,8 @@ main p {
     text-align: left;
     margin: 0px;
     margin-left: 40px;
-    margin-bottom: 50px;
+    margin-top: 5vw;
+    margin-bottom: 5vw;
 }
 
 .imagem {
@@ -63,6 +64,8 @@ main p {
 }
 
 .imagem p {
+    margin-bottom: 0vw;
+    margin-top: 0vw;
     position: absolute;
     width: 43vw;
     height: 43vw;
