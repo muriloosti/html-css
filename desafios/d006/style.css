@@ -44,11 +44,11 @@ header a:hover {
 }
 
 main p {
-    font-size: 3vw;
+    font-size: 3.5vw;
     font-family: "Sriracha", cursive;
     font-weight: 400;
     font-style: normal;
-    width: 40vw  px;
+    width: 43vw  px;
     text-align: left;
     margin: 0px;
     margin-left: 40px;
@@ -63,8 +63,8 @@ main p {
 
 .imagem p {
     position: absolute;
-    width: 40vw;
-    height: 40vw;
+    width: 43vw;
+    height: 43vw;
     color: white;
     background-color: #00000033;
     top: 50%;
