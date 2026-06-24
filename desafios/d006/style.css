@@ -61,6 +61,7 @@ main p {
 
 .imagem {
     background: black no-repeat fixed center center/cover;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.514);
 }
 
 .imagem p {
@@ -70,8 +71,9 @@ main p {
     width: auto;
     padding: 5px;
     color: white;
-    background-color: #00000046;
+    background-color: rgba(0, 0, 0, 0.451);
     text-align: left;
+    text-shadow: 1px 1px 1px black;
 }
 
 footer {
