@@ -60,6 +60,7 @@ main p {
 }
 
 .imagem {
+    height: auto;
     background: black no-repeat fixed center center/cover;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.514);
 }
