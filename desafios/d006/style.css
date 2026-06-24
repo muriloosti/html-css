@@ -50,17 +50,18 @@ main p {
     font-family: "Sriracha", cursive;
     font-weight: 400;
     font-style: normal;
-    width: 43vw  px;
+    width: 45vw;
     text-align: left;
     margin: 0px;
     margin-left: 40px;
-    margin-top: 4vh;
-    margin-bottom: 4vh;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    line-height: 2em;
 }
 
 .imagem {
     position: relative;
-    height: 60vw;
+    height: 70vw;
     background: black no-repeat fixed center center/cover;
 }
 
@@ -68,12 +69,13 @@ main p {
     margin-bottom: 0vh;
     margin-top: 0vh;
     position: absolute;
-    width: 43vw;
-    height: 43vw;
+    width: 45vw;
+    height: 50vw;
     color: white;
-    background-color: #00000033;
+    background-color: #00000046;
     top: 50%;
     transform: translate(-0, -50%);
+    text-align: center;
 }
 
 footer {
