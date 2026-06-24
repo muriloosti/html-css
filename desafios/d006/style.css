@@ -16,6 +16,7 @@ header > h1 {
     font-weight: normal;
     font-style: normal;
     font-size: 10vw;
+    font-variant: small-caps;
     text-align: center;
     padding-top: 50px;
     margin-top: 0px;
@@ -32,7 +33,7 @@ header > p {
     text-align: center;
     color: white;
     padding-bottom: 20px;
-    margin-bottom: 5vw;
+    margin-bottom: 10vh;
 }
 
 header a {
@@ -53,8 +54,8 @@ main p {
     text-align: left;
     margin: 0px;
     margin-left: 40px;
-    margin-top: 6vw;
-    margin-bottom: 6vw;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
 }
 
 .imagem {
@@ -64,8 +65,8 @@ main p {
 }
 
 .imagem p {
-    margin-bottom: 0vw;
-    margin-top: 0vw;
+    margin-bottom: 0vh;
+    margin-top: 0vh;
     position: absolute;
     width: 43vw;
     height: 43vw;
