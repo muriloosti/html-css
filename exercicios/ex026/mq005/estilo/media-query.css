@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+/* 
+Pequeno (Celulares): ≤ 576px ou ≤ 600px
+Médio (Tablets): ≥ 768px
+Grande (Laptops / Telas pequenas de Desktop): ≥ 992px
+Extra Grande (Desktops padrão): ≥ 1200px
+Extra Extra Grande (Monitores 4K e TVs): ≥ 1400px ou ≥
+*/
+
+@media screen and (min-width: 600px) {
+    span#burguer {
+        display: none;
+    }    
+
+    menu {
+        display: block;
+    }
+
+    menu > ul > li {
+        display: inline-block;
+    }
+
+    main {
+        max-width: 768px;
+    }
+}
