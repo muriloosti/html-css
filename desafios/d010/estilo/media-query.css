@@ -1,12 +1,8 @@
-@charset "UTD-8";
+@charset "UTF-8";
 
 @media screen and (max-width: 520px) {
     header {
         display: block;
-    }
-
-    .logo {
-        margin-top: 0px;
     }
 
     nav {

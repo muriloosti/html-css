@@ -21,7 +21,7 @@ header {
 }
 
 header > h1 {
-    margin: 5px;
+    padding: 10px;
     color: white;
     text-shadow: 1px 1px 1px black;
 }
@@ -48,14 +48,7 @@ nav {
 
 main {
     margin: 8px;
+    padding: 8px;
     background-color: white;
     border-radius: 5px;
-}
-
-main > h1 {
-    margin: 8px;
-}
-
-main > p {
-    margin: 8px;
 }
